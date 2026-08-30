@@ -1,0 +1,6 @@
+{
+  "name": "Terra Voyages | Curated Travel, Flights, Stays & Custom Itineraries",
+  "description": "Premium travel exploration platform with multi-category search (flights, hotels, curated tours), interactive custom itinerary builder, destination guides, and instant booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
